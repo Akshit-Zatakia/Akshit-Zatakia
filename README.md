@@ -2,10 +2,10 @@
 
 [![Website](https://img.shields.io/badge/-akshit--zatakia.github.io-red)](https://akshit-zatakia.github.io)
 
-## I'm a Developer!!
+## I'm a Web and App Developer!!
 
  👀 I’m interested in developing projects with the latest technology.<br>
- 🌱 I’m currently learning MERN stack.<br>
+ 🌱 I’m currently developing projects in MERN stack.<br>
  💞️ I’m looking to collaborate on open source projects.<br>
  📫 Mail me on akshitzatakia0@gmail.com <br> 
 
