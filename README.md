@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/-akshit--zatakia.github.io-red)](https://akshit-zatakia.github.io)
 
-## I'm a Web and App Developer!!
+## I'm a Full-Stack Developer!!
 
  👀 I’m interested in developing projects with the latest technology.<br>
  🌱 I’m currently developing projects in MERN stack.<br>
