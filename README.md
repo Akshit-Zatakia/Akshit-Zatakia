@@ -9,6 +9,9 @@
  💞️ I’m looking to collaborate on open source projects.<br>
  📫 Mail me on akshitzatakia0@gmail.com <br> 
 
+## Published Packages
+--> I have published an package named as react-allpages.<br>
+--> <a href="https://www.npmjs.com/package/react-allpages">Here</a> is the link.
 
 ### Connect with me:
 
