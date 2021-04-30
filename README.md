@@ -10,8 +10,16 @@
  📫 Mail me on akshitzatakia0@gmail.com <br> 
 
 ## Published Packages
---> I have published an package named as react-allpages.<br>
+#### <a href="https://www.npmjs.com/package/react-allpages">react-allpages</a>
+--> By using this package you can make home, login and register pages and other components with less code.<br>
+--> So your code is clean and understandable.<br>
 --> <a href="https://www.npmjs.com/package/react-allpages">Here</a> is the link.
+
+#### <a href="https://www.npmjs.com/package/kncp">kncp</a>
+--> By using this package you can easily create a node project without writing any code and with some dependencies installed. <br>
+--> So you don't need to write any boilerplate code and then making directories and files for your project. <br>
+--> kncp will take care of everything.<br>
+--> <a href="https://www.npmjs.com/package/kncp">Here</a> is the link.
 
 ### Connect with me:
 
