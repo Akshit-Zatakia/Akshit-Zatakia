@@ -21,7 +21,7 @@
 --> kncp will take care of everything.<br>
 --> <a href="https://www.npmjs.com/package/kncp" target="_blank">Here</a> is the link.
 
-### Fun Stuff
+## Fun Stuff
 --> Check your github profile from below link and take screenshot.<br><br>
 [![Website](https://img.shields.io/badge/-git--profile-blue)](https://akshit-zatakia.github.io/git-profile/)
 
