@@ -22,8 +22,11 @@
 --> <a href="https://www.npmjs.com/package/kncp" target="_blank">Here</a> is the link.
 
 ## Fun Stuff
---> Check your github profile from below link and take screenshot.<br><br>
-[![Website](https://img.shields.io/badge/-git--profile-blue)](https://akshit-zatakia.github.io/git-profile/)
+--> Check your github profile from below link and take screenshot.<br>
+[![Website](https://img.shields.io/badge/-git--profile-blue)](https://akshit-zatakia.github.io/git-profile/)<br><br>
+--> Check out the prices of Crypto currencies from below link.<br>
+[![Website](https://img.shields.io/badge/-crypto-blue)](https://crypto-nextjs.vercel.app/)<br><br>
+
 
 ### Connect with me:
 
