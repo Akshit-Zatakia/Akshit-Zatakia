@@ -54,12 +54,7 @@
 <br />
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Akshit GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=Akshit-Zatakia&show_icons=true&hide_border=true" />
-
-</details>
+![github stats](https://github-stats-terminal-style.herokuapp.com/Akshit-Zatakia)
 
 [website]: https://akshit-zatakia.github.io/
 [instagram]: https://www.instagram.com/invites/contact/?i=1hwg8aeuwom9f&utm_content=kw0asmz
