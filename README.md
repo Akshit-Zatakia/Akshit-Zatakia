@@ -22,6 +22,8 @@
 --> <a href="https://www.npmjs.com/package/kncp" target="_blank">Here</a> is the link.
 
 ## Fun Stuff
+--> Chat with others using open source chat application from the below link.<br>
+[![Website](https://img.shields.io/badge/-do--vartalap-blue)](https://do-vartalap.herokuapp.com/)<br><br>
 --> Check your github profile from below link and take screenshot.<br>
 [![Website](https://img.shields.io/badge/-git--profile-blue)](https://akshit-zatakia.github.io/git-profile/)<br><br>
 --> Check out the prices of Crypto currencies from below link.<br>
