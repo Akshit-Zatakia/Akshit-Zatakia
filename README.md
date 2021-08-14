@@ -57,8 +57,7 @@
 <br />
 <br />
 
-
-![github stats](https://github-stats-terminal-style.herokuapp.com/Akshit-Zatakia)
+![Akshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshit-Zatakia&theme=tokyonight&show_icons=true)
 
 [website]: https://akshit-zatakia.github.io/
 [instagram]: https://www.instagram.com/invites/contact/?i=1hwg8aeuwom9f&utm_content=kw0asmz
