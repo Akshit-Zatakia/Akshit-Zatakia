@@ -5,7 +5,7 @@
 ## I'm a Full-Stack Developer!!
 
  👀 I’m interested in developing projects with the latest technology.<br>
- 🌱 I’m currently developing projects in MERN stack.<br>
+ 🌱 I’m currently developing projects in Spring-boot and Golang.<br>
  💞️ I’m looking to collaborate on open source projects.<br>
  📫 Mail me on akshitzatakia0@gmail.com <br> 
 
